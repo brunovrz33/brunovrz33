@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Prazer! Me chamo Bruno. Sou estudante de Engenharia de Software no CEUB e tenho grande interesse na área de Back-End. Tenho como objetivo me especializar em Cloud-Computing e me tornar um dev cada vez mais preparado para os desafios da área.<br>Sou organizado, dedicado e atencioso aos meus estudos dentro e fora da faculdade. Com foco e determinação, desejo construir sonhos e adquirir conhecimento na área com excelência.</p>
+<p align="left">Prazer! Me chamo Bruno. Sou estudante de Engenharia de Software no CEUB e tenho grande interesse na área de Back-End. Tenho como objetivo me especializar em Cloud-Computing e me tornar um DevOps. <br>Sou organizado, dedicado e atencioso aos meus estudos dentro e fora da faculdade. Com foco e determinação, desejo construir sonhos e adquirir conhecimento na área com excelência.</p>
 
 ###
 
