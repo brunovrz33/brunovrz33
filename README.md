@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde: 2026<br><br>📚 Atualmente estou estudando: C#, Node.js e fundamentos de desenvolvimento.<br><br>🎯 Objetivo: Aprender Java e CLoud. Tentar tirar certificações como: AWS, Azure e Google. <br><br>🎲 Curiosidade: Gosto de praticar, criando alguns projetos simples e uns exercícios diariamente. Curto organizar meus estudos dentro e fora da faculdade e acompanhando minha própria evolução.</p>
+<p align="left">✨ Criando bugs desde: 2026<br><br>📚 Atualmente estou estudando: C#, Node.js e fundamentos de desenvolvimento.<br><br>🎯 Objetivo: Aprender Java e Cloud. Tentar tirar certificações como: AWS, Azure e Google. <br><br>🎲 Curiosidade: Gosto de praticar, criando alguns projetos simples e uns exercícios diariamente. Curto organizar meus estudos dentro e fora da faculdade e acompanhando minha própria evolução.</p>
 
 ###
 
