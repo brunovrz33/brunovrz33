@@ -2,11 +2,11 @@
 
 # Olá, eu sou Bruno 👋
 
-**Estudante de Engenharia de Software · Futuro Dev Backend · Cloud Enthusiast**
+**Estudante de Engenharia de Software · Futuro DevOps Backend · Cloud Enthusiast**
 
 *"Com foco e determinação, desejo construir sonhos e adquirir conhecimento na área com excelência."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/bruno-almeida-780244271/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunovrz33)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brunovrz33.github.io)
 
@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de **Engenharia de Software no CEUB**, com grande interesse na área de **Back-End** e objetivo de me especializar em **Cloud Computing** para me tornar um **DevOps**.
+Sou estudante de **Engenharia de Software no CEUB**, com grande interesse na área de **Back-End** e objetivo de me especializar em **Cloud Computing** para me tornar um **DevOps** completo, como um Platform Engineer. Assim valorizando backend + infraestrutura + automação + cloud.
 
 Sou organizado, dedicado e atencioso aos meus estudos dentro e fora da faculdade. Gosto de praticar criando projetos e exercícios diariamente, acompanhando minha própria evolução.
 
@@ -44,19 +44,17 @@ public class Bruno {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## ☁️ Certificações no Radar
+## ☁️ Certificações que tenho como objetivo
 
 <div align="center">
 
@@ -74,16 +72,6 @@ public class Bruno {
 |---|---|
 | [💻 Code-Lab](https://github.com/brunovrz33/Code-Lab) | Repositório focado no aprendizado de linguagens e desenvolvimento geral |
 | [🌐 Portfolio](https://brunovrz33.github.io) | Meu portfólio pessoal com projetos e habilidades |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunovrz33&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080c10&title_color=00d4aa&icon_color=00d4aa&text_color=e8edf2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunovrz33&layout=compact&theme=tokyonight&hide_border=true&bg_color=080c10&title_color=00d4aa&text_color=e8edf2)
 
 </div>
 
