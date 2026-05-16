@@ -6,7 +6,7 @@
 
 *"Com foco e determinação, desejo construir sonhos e adquirir conhecimento na área com excelência."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/bruno-almeida-780244271/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-almeida-780244271/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunovrz33)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brunovrz33.github.io)
 
